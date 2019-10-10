@@ -1,6 +1,6 @@
 # disqus comments
 disqus:
-  shortname: ryeom
+  shortname: icepickS2
 remote_theme:     fongandrew/hydeout
 
 # Dependencies
@@ -8,10 +8,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ryeom
-tagline:          'ryeom'
+title:            icepickS2
+tagline:          'icepickS2'
 description:      'javascript, spring'
-url:              https://ryeom.github.io
+url:              https://icepickS2.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -21,8 +21,8 @@ baseurl:          ''
 paginate: 5
 sidebar_link: true
 author:
-  name:           'RYEOM'
-  url:            https://ryeom.github.io
+  name:           'icepickS2'
+  url:            https://icepickS2.github.io
 
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
